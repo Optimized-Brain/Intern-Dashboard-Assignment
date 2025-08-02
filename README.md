@@ -80,15 +80,6 @@ NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID="your-messaging-sender-id"
 ```
 
 
-### 3. Install Dependencies
-
-Navigate to the project directory in your terminal and install the required npm packages.
-
-```bash
-npm install
-```
-
-
 ### 4. Run the Development Server
 
 Once the dependencies are installed, you can start the local development server. The application will be available at `http://localhost:3000`.
